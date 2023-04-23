@@ -14,17 +14,11 @@ Simple Website which plays Music with all the Audio Functionalites.
 
 ## Demo
 
-
-https://user-images.githubusercontent.com/105188352/233859372-08c52528-7a0e-440d-9fff-a9b2e247d4b0.mp4
-
-
+https://user-images.githubusercontent.com/105188352/233859499-df46897f-7c88-45f7-8458-6d9714a7fafc.mp4
 
 ## Images of the WebPage {Basic}
 <img width="1236" alt="ScrnSt  213" src="https://user-images.githubusercontent.com/105188352/233858614-6c3a5f25-8dcb-4e2c-a7c4-efb31f221180.png">
 <img width="1271" alt="ScrnSt  212" src="https://user-images.githubusercontent.com/105188352/233858619-667ce7ea-30e4-4d82-85d7-e71b84f2b168.png">
-
-
-
 
 ## Run Locally
 
